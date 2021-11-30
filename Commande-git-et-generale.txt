@@ -21,7 +21,14 @@ git commit --amend <nomdufichier> = modifier le message du dernier commit
 
 Procédé du push :
 
-Creations Repositories/Recup > git add > git commit > git push
+git remote add origin <address>
+    ajouter un dépôt distant à notre projet (vers GitHub par exemple)
+git push
+    pousser des modifications vers le dépôt distant
+
+
+Trame pour un push:
+créer/modifier un fichier > ajouter la modification dans l'index (git add) > intégrer les modifications dans l'historique (dépôt local) (git commit) > publier sur le dépôt distant (git push)
 
 
 
