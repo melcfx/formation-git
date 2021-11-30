@@ -21,7 +21,8 @@ git commit --amend <nomdufichier> = modifier le message du dernier commit
 
 Procédé du push :
 
-Creations Repositories/Recup > git add > git push
+Creations Repositories/Recup > git add > git commit > git push
+
 
 
 
