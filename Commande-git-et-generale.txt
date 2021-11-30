@@ -1,0 +1,28 @@
+-Commande Générale :
+
+ls = lister un contenu d'un répertoire
+cd (nom repertoire) = permet de rentrer dans un répertoire
+cd .. = sortir d'un répertoire
+clear = permet de nettoyer visuellement le terminal (cmd, bash)
+touch <nom>= permet de creer un fichier
+mkdir <nom> = permet de creer un repertoire
+
+-Git Commande :
+
+git init = initialiser un projet git
+git branch --help =  pour plus d'infos sur les branches
+git add = permet d'ajouter un fichier a la zone d'attente
+git commit -m "example" = permet d'historiser 
+git config = permet de configurer git (transmettre des valeurs) -> contient des propriétés
+git log = permet de voir l'historique du projet en cours
+git switch (ou checkout) = permet de changer de branche
+git status = afficher l'état du fichier
+git commit --amend <nomdufichier> = modifier le message du dernier commit
+
+Procédé du push :
+
+Creations Repositories/Recup > git add > git push
+
+
+
+
